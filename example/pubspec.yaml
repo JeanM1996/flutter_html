@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   flutter_html:
-    path: ..
+    git: https://github.com/JeanM1996/flutter_html.git
 
   flutter:
     sdk: flutter

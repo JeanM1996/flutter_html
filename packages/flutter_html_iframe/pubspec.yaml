@@ -14,7 +14,7 @@ dependencies:
   html: ">=0.15.0 <1.0.0"
 
   flutter_html:
-    path: ../..
+    git: https://github.com/JeanM1996/flutter_html.git
 
   webview_flutter: ">=2.0.4 <4.0.0"
 
