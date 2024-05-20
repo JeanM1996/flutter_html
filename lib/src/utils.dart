@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_html/src/style.dart';
+import 'package:flutter_html/style.dart';
 
 Map<String, String> namedColors = {
   "White": "#FFFFFF",
@@ -38,8 +38,7 @@ class MultipleTapGestureDetector extends InheritedWidget {
   }) : super(key: key, child: child);
 
   static MultipleTapGestureDetector? of(BuildContext context) {
-    return context
-        .dependOnInheritedWidgetOfExactType<MultipleTapGestureDetector>();
+    return context.dependOnInheritedWidgetOfExactType<MultipleTapGestureDetector>();
   }
 
   @override
