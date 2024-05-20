@@ -16,6 +16,6 @@ dependencies:
   flutter_html:
     git: https://github.com/JeanM1996/flutter_html.git
 
-  webview_flutter: ">=2.0.4 <4.0.0"
+  webview_flutter: ^4.7.0
 
 flutter:
