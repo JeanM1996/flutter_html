@@ -2,6 +2,7 @@ name: flutter_html_iframe
 description: Iframe widget for flutter_html.
 version: 4.0.0
 homepage: https://github.com/Sub6Resources/flutter_html
+publish_to: none
 
 environment:
   sdk: ">=3.2.0 <4.0.0"
